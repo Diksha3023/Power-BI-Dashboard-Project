@@ -5,8 +5,8 @@ Welcome to the Sales Dashboard project! This dashboard provides a comprehensive 
 * Real-time sales data updates<br>
 * User-friendly interface<br>
 **Data Analysis using Power BI**
-  1. **Data cleaning**: * Remove rows containing null values in the markets table.
-                        * Cleaning negative values from the sales amount column of transactions table.
+  1. **Data cleaning**: - Remove rows containing null values in the markets table.
+                        - Cleaning negative values from the sales amount column of transactions table.
   
   
 
