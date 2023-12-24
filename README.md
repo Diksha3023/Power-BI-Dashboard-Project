@@ -1,4 +1,4 @@
- **Introduction**
+ **Introduction**<br>
 Welcome to the Sales Dashboard project! This dashboard provides a comprehensive overview of sales data, enabling users to analyze and make informed business decisions.<br>
 **Features**<br>
 * Interactive charts and graphs<br>
